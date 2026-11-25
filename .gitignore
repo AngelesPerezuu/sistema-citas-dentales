@@ -1,0 +1,17 @@
+# Carpetas temporales y de compilación de Visual Studio / .NET
+.vs/
+[Bb]in/
+[Oo]bj/
+packages/
+*.user
+*.userosscache
+*.suo
+*.cache
+*.log
+*.bak
+UpgradeLog.htm
+_UpgradeReport_Files/
+
+# Archivos de sistema de Windows
+Thumbs.db
+Desktop.ini
